@@ -1,0 +1,6 @@
+# 本地/局域网地址
+# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
+
+# 需要管控的设备地址
+SRC-IP-CIDR,192.168.200.215/32
+SRC-IP-CIDR,192.168.200.63/32
